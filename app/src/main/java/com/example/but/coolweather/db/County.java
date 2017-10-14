@@ -18,10 +18,10 @@ public class County extends DataSupport {
         this.id=id;
 
     }
-    public String getcountyName(){
+    public String getCountyName(){
         return countyName;
     }
-    public void setcountyName(String countyName){
+    public void setCountyName(String countyName){
         this.countyName=countyName;
 
     }
